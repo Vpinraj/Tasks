@@ -5,3 +5,16 @@ Installing react libraries
 Install typescript and types for react and react dom as dev dependancy
 
  >  yarn add -D typescript @types/react @types/react-dom
+
+
+Install Babel with necessory plugins as dev dependacncy
+
+ > yarn add -D @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript 
+
+Install Webpack Dependancies
+
+ > yarn add -D webpack webpack-cli webpack-dev-server html-webpack-plugin
+
+Install babel loader - for  traspiling js files using babel and webpack
+ 
+ > yarn add -D babel-loader
