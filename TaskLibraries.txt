@@ -1,0 +1,7 @@
+Installing react libraries
+
+ > yarn add react react-dom
+
+Install typescript and types for react and react dom as dev dependancy
+
+ >  yarn add -D typescript @types/react @types/react-dom
